@@ -3,8 +3,13 @@
 </div>
 
 <div align="center">
-    <p align="right">
-        <a href="README.md">English</a> | <a href="README_CN.md">中文</a>
+    <p>
+        <a href="README.md">
+            <img src="https://img.shields.io/badge/English-ff69b4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/>
+        </a>
+        <a href="README_CN.md">
+            <img src="https://img.shields.io/badge/简体中文-4c1?style=for-the-badge&logo=googletranslate&logoColor=white" alt="简体中文"/>
+        </a>
     </p>
 </div>
 
@@ -36,7 +41,7 @@ class 开发者:
         }
         self.学习中 = {
             "前端框架": ["React"],
-            "编程语言": ["Rust"]
+            "编���语言": ["Rust"]
         }
         self.热衷领域 = ["大模型应用开发", "AI绘画", "模型微调", "AI代理"]
         
@@ -119,10 +124,6 @@ print(我.获取座右铭())
 </div>
 
 ---
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/GuoAccount/GuoAccount/output/github-contribution-grid-snake.svg" />
-</div>
 
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
