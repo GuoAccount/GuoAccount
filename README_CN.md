@@ -118,8 +118,7 @@ print(我.获取座右铭())
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuoAccount&repo=erp_ssm&theme=radical&show_owner=true&locale=cn)](https://github.com/GuoAccount/erp_ssm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuoAccount&repo=GuoAccount.github.io&theme=radical&show_owner=true&locale=cn)](https://github.com/GuoAccount/GuoAccount.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuoAccount&repo=autox-ts&theme=radical&show_owner=true&locale=cn)](https://github.com/GuoAccount/autox-ts)
 
 </div>
 
