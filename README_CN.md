@@ -20,7 +20,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=GuoAccount&color=blueviolet&style=flat-square">
     <a href="https://github.com/GuoAccount?tab=followers">
-        <img src="https://img.shields.io/github/followers/GuoAccount?label=关注者&style=social" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/GuoAccount?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </div>
 
