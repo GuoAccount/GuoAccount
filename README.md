@@ -29,7 +29,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "GuoAccount"
+        self.name = "郭顺顺 (Guo Shunshun)"
         self.role = "Full Stack Developer"
         self.proficient_skills = {
             "Frontend": ["Vue", "UniApp", "WeChat Mini Program"],
@@ -44,16 +44,21 @@ class Developer:
             "Languages": ["Rust"]
         }
         self.passions = ["LLM Development", "AI Art", "Model Fine-tuning", "AI Agents"]
+        self.mottos = [
+            "What's past is prologue. - William Shakespeare",
+            "Learn from the past, and look forward to the future. - Tao Yuanming",
+            "Embrace AI, Innovate the Future"
+        ]
         
     def say_hi(self):
         print("Thanks for visiting my GitHub! Let's explore the infinite possibilities of AI!")
         
-    def get_motto(self):
-        return "Embrace AI, Innovate the Future"
+    def get_mottos(self):
+        return "\n".join(self.mottos)
 
 me = Developer()
 me.say_hi()
-print(me.get_motto())
+print(me.get_mottos())
 ```
 
 ## 🛠️ Tech Stack
@@ -159,14 +164,3 @@ print(me.get_motto())
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-## 🛠 Mottos
-> *"What's past is prologue."* — William Shakespeare
-> 
-> *"Learn from the past, and look forward to the future."* — Tao Yuanming

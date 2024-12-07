@@ -27,33 +27,38 @@
 ## 🚀 关于我
 
 ```python
-class 开发者:
+class Developer:
     def __init__(self):
-        self.名字 = "GuoAccount"
-        self.角色 = "全栈开发工程师"
-        self.熟练技能 = {
-            "前端框架": ["Vue", "UniApp", "微信小程序"],
-            "后端框架": ["SpringBoot", "Gin", "Flask"],
+        self.name = "郭顺顺 (Guo Shunshun)"
+        self.role = "全栈开发工程师"
+        self.proficient_skills = {
+            "前端": ["Vue", "UniApp", "微信小程序"],
+            "后端": ["SpringBoot", "Gin", "Flask"],
             "编程语言": ["Go", "Java", "Python", "JavaScript", "TypeScript"],
             "数据库": ["MySQL", "PostgreSQL"],
-            "DevOps": ["Linux", "Docker", "Ollama"],
-            "AI方向": ["大模型应用", "Stable Diffusion", "模型微调", "大模型函数调用", "AI代理"]
+            "运维": ["Linux", "Docker", "Ollama"],
+            "人工智能": ["LLM应用开发", "Stable Diffusion", "模型微调", "LLM函数调用", "AI智能体"]
         }
-        self.学习中 = {
-            "前端框架": ["React"],
+        self.learning = {
+            "前端": ["React"],
             "编程语言": ["Rust"]
         }
-        self.热衷领域 = ["大模型应用开发", "AI绘画", "模型微调", "AI代理"]
+        self.passions = ["大语言模型开发", "AI艺术创作", "模型微调", "AI智能体"]
+        self.mottos = [
+            "凡是过往，皆为序章。 - 莎士比亚",
+            "以铜为镜，可以正衣冠；以古为镜，可以知兴替。 - 陶渊明",
+            "拥抱AI，创新未来"
+        ]
         
-    def 打个招呼(self):
-        print("感谢访问我的GitHub主页！让我们一起探索AI的无限可能！")
+    def say_hi(self):
+        print("感谢访问我的GitHub！让我们一起探索AI的无限可能！")
         
-    def 获取座右铭(self):
-        return "拥抱AI，创新未来"
+    def get_mottos(self):
+        return "\n".join(self.mottos)
 
-我 = 开发者()
-我.打个招呼()
-print(我.获取座右铭())
+me = Developer()
+me.say_hi()
+print(me.get_mottos())
 ```
 
 ## 🛠️ 技术栈
@@ -127,8 +132,3 @@ print(我.获取座右铭())
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
-## 🛠 座右铭
-> *"一切过往，皆为序章。"* —— 莎士比亚
-> 
-> *"悟已往之不谏，知来者之可追。"* —— 陶渊明
