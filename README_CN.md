@@ -127,3 +127,8 @@ print(我.获取座右铭())
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
+## 🛠 座右铭
+> *"一切过往，皆为序章。"* —— 莎士比亚
+> 
+> *"悟已往之不谏，知来者之可追。"* —— 陶渊明

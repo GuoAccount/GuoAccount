@@ -165,3 +165,8 @@ print(me.get_motto())
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
+## 🛠 Mottos
+> *"What's past is prologue."* — William Shakespeare
+> 
+> *"Learn from the past, and look forward to the future."* — Tao Yuanming
